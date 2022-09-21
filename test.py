@@ -1,0 +1,1 @@
+print("Uji Coba")
